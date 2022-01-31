@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "text": "This is a test feedback 1 coming from the json backend",
+      "rating": 10
+    },
+    {
+      "id": 2,
+      "text": "This is a test feedback 2 coming from the json backend",
+      "rating": 7
+    },
+    {
+      "id": 3,
+      "text": "This is a test feedback 3 coming from the json backend",
+      "rating": 5
+    },
+    {
+      "text": "this is another testing feedback from postman updates",
+      "rating": 4,
+      "id": 4
+    },
+    {
+      "text": "This is the real test to send data in backend database ",
+      "rating": 8,
+      "id": 6
+    }
+  ]
+}
